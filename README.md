@@ -24,3 +24,6 @@ Also, apologies for the state/readability of the code - this would have been wri
 
 # Other Resources
 [Youtube Video](https://www.youtube.com/watch?v=wzJqh4aJvYs&t=2s) of the slow motion capture of table tennis ball dynamics.
+
+# Terms of Use
+For non-commercial only use with no warranty. Please contact me about commerical/ inclusion with propietory software.
