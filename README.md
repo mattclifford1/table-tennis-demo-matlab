@@ -13,3 +13,6 @@ Also, appologies for the state of the code - this would have been written in a b
 
 # Other Resources
 [Youtube Video](https://www.youtube.com/watch?v=wzJqh4aJvYs&t=2s) of the slow motion capture of table tennis ball dynamics.
+
+# Feedback Please
+Could someone with matlab let me know whether it's just the [`./Bounce`](Bounce) directory which is nessesary to run - in which case I'll remove the other files in the parent directory to avoid confusion.
