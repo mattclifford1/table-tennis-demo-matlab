@@ -3,6 +3,9 @@
 Matlab code for a (very) old project.
 I've uploaded this upon request from comments on the accompanying video - https://www.youtube.com/watch?v=Ijy7N31rks0
 
+# To Run interactive demo
+Change in to the Bounce directory and run `GUI.m`. 
+
 # Disclaimer
 I no longer have Matlab software/lisence so I cannot run and test this code! Any bug fixes via pull requests welcomed :)
 
