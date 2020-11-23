@@ -1,10 +1,10 @@
 # table-tennis-demo-matlab
 
 Matlab code for a (very) old project.
-I've uploaded this upon request from comments on the accompanying video - https://www.youtube.com/watch?v=Ijy7N31rks0
+I've uploaded this upon request from comments on the accompanying [https://www.youtube.com/watch?v=Ijy7N31rks0](Youtube Video)
 
 # To Run interactive demo
-Change in to the Bounce directory and run `GUI.m`. 
+Change in to the Bounce directory and run [`./Bounce/GUI.m`](GUI.m). 
 
 # Disclaimer
 I no longer have Matlab software/lisence so I cannot run and test this code! Any bug fixes via pull requests welcomed :)
