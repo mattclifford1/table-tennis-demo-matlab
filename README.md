@@ -4,7 +4,14 @@ Matlab code for a (very) old project.
 I've uploaded this upon request from comments on the accompanying [Youtube Video](https://www.youtube.com/watch?v=Ijy7N31rks0).
 
 # To Run interactive demo
-Change in to the Bounce directory and run [`./Bounce/GUI.m`](GUI.m). 
+First, clone this repository to get the code on your local disk. Open terminal (Mac/Linux) or GitBash (Windows) and type the following command where you want to place this repo.
+```
+git clone https://github.com/mattclifford1/table-tennis-demo-matlab.git
+```
+Then change in to the Bounce directory and run [`./Bounce/GUI.m`](GUI.m) from the matlab interpreter.
+```
+GUI
+```
 
 # Disclaimer
 I no longer have Matlab software/licence so I cannot run and test this code! Any bug fixes via pull requests welcomed :)
