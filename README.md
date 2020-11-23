@@ -18,6 +18,7 @@ Finally run [`./Bounce/GUI.m`](GUI.m) from the matlab interpreter.
 ```
 >> GUI
 ```
+<img src='https://github.com/mattclifford1/table-tennis-demo-matlab/edit/master/gui-example.png' width=1200>
 
 # Disclaimer
 I no longer have Matlab software/licence so I cannot run and test this code (GNU octave doesn't come with the GUI functionality required unfortunately). So any bug fixes via pull requests welcomed :)
