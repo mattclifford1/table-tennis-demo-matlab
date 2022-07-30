@@ -20,7 +20,7 @@ Open up matlab and run [`./Bounce/GUI.m`](GUI.m) from the matlab interpreter.
 # Disclaimer
 I no longer have Matlab software/licence so I cannot run and test this code (GNU octave doesn't come with the GUI functionality required unfortunately). So any bug fixes via pull requests welcomed :)
 
-Also, apologies for the state/readability of the code - this would have been written in a big rush towards a project deadline. Let me know if you would like the accompanying paper with results and maths and I'll try and dig that out.
+Also, apologies for the state/readability of the code - this would have been written in a big rush towards a project deadline. Paper is found as PDF in the repo [paper_ping_pong_physics.pdf](here0
 
 # Other Resources
 [Youtube Video](https://www.youtube.com/watch?v=wzJqh4aJvYs&t=2s) of the slow motion capture of table tennis ball dynamics.
